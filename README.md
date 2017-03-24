@@ -1,2 +1,2 @@
 # PlacementFileManagementSystem
-A c++ console-based programm which uses CSV files as backend.
+A c++ console-based application which uses CSV files as backend.
